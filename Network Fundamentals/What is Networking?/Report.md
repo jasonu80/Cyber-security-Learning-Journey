@@ -29,7 +29,7 @@ IP Address is an address that is used for identifying a host on a network for so
 
 #### Scenario: 
 
-![Initial Scenario]("Assets/0.png" "Bob's packet data is going to bin.")
+![Initial Scenario](Assets/0.png "Bob's packet data is going to bin.")
 
 There are 2 devices, named Alice and Bob, that is connected to a WiFi network. Each of the devices must have a license or proof of purchase to access the network. One of the devices, which is Bob, cannot have access because it has not had the proof of purchase in it. 
 
@@ -39,13 +39,13 @@ Make Bob grant access to the WiFi network without any license involved.
 
 #### Action: 
 
-![Action]("Assets/1.png" "Change the MAC Address.")
+![Action](Assets/1.png "Change the MAC Address.")
 
 Change Bob's MAC Address into Alice's MAC Address that has it. The network will identify Bob as Alice. 
 
 #### Result:
 
-![Results]("Assets/2.png" "Bob's packet data is going to the WiFi Access.")
+![Results](Assets/2.png "Bob's packet data is going to the WiFi Access.")
 
 Bob's packet data is no longer sent to the bin because the network is identifying Bob as Alice, who has paid for the network.
 
@@ -65,7 +65,7 @@ Use the command `ping` in the terminal, up to 4 times by running the command in 
 
 #### Result: 
 
-![Result of pinging]("Assets/3.png" "Pinging the address up to 4 times.")
+![Result of pinging](Assets/3.png "Pinging the address up to 4 times.")
 
 The average time for the server to receive the request from the device is 9.428 milliseconds. 
 
