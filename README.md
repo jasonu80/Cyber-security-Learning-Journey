@@ -1,2 +1,2 @@
-# Cyber Security Portfolio
-This portfolio covers on what I have documented in Cyber Security learning journey as well as practical labs. 
+# Cyber Security Learning Journey
+This Journey covers on what I have documented in Cyber Security as well as practical labs in TryHackMe. 
