@@ -41,7 +41,7 @@ At this part, I approached a little uncertain on what to choose from these optio
 
 ![Answer on Discussion Question](Assets/1.png "How I approach a theoretical question")
 
-This part is based on the reading provided by TryHackMe. I am uncertain to answer as it is a question that relies on a fact. I need to understand the "why" after discovering the actual answer of this question. Based on the reading, I think it is clear that checksum provides the data integrity of a packet itself, in which if the actual output does not match on what is generated, then it is simply not secure. 
+This part is based on the reading provided by TryHackMe. I am uncertain to answer as it is a question that relies on a fact. I need to understand the "why" after discovering the actual answer of this question. Based on the reading, I think it is clear that REDACTED provides the data integrity of a packet itself, in which if the actual output does not match on what is generated, then it is simply not secure. 
 
 ## Conclusion
 
