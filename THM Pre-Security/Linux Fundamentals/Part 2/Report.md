@@ -1,5 +1,5 @@
 
-# Linux Fundamentals - Part 1 - TryHackMe Walkthrough
+# Linux Fundamentals - Part 2 - TryHackMe Walkthrough
 
 ## Table of Contents
 
