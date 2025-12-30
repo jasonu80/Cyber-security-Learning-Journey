@@ -9,6 +9,7 @@
 2. Underlying concepts
 3. Hands-on labs with challenges faced
 4. Conclusion
+5. Achievements
 
 ## How does this topic relates with Cyber Security in Business context
 
@@ -67,3 +68,12 @@ There are slight difference between the bigger than operator. The `>` operator c
 ## Conclusion
 
 This room introduces the concept of using a Command-Line Interface (CLI) in Linux Operating System who never uses it. It covers a fundamental concepts such as file listing, changing directories, searching for files, adding content to a specific file, and many more covered above.
+
+## Achievements
+Badge
+
+[cat linux.txt](https://tryhackme.com/jsnjsnut1001/badges/terminaled)
+
+![Analysis](Assets/8.png)
+
+
